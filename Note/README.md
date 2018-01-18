@@ -5,7 +5,11 @@
 
 *Process :*
 
-Data Acquisition > Preprocess Data > Split Data > Train <> Test > Model Deployment
+> Data Acquisition > Preprocess Data > Split Data > Train <> Test > Model Deployment
+
+*Type of Learning :*
+
+> Superviesed, Unsuperviesed, Reinforcement
 
 ***
 
