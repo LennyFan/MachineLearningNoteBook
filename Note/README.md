@@ -1,7 +1,5 @@
 ## Machine Learning Note
 
-**Overview**
-
 
 - *Process :*
 
