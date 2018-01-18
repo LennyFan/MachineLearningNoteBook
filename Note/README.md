@@ -3,9 +3,9 @@
 **Overview**
 
 
-*Process :*
+- *Process :*
 
-Data Acquisition > Preprocess Data > Split Data > Train <> Test > Model Deployment
+  Data Acquisition > Preprocess Data > Split Data > Train <> Test > Model Deployment
 
 
 ***
