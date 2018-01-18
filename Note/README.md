@@ -7,11 +7,16 @@
 
 > Data Acquisition > Preprocess Data > Split Data > Train <> Test > Model Deployment
 
-*Type of Learning :*
-
-> Superviesed, Unsuperviesed, Reinforcement
 
 ***
 
+**Superviesed**
 
+***
+
+**Unsuperviesed**
+
+***
+
+**Reinforcement**
 
