@@ -16,8 +16,6 @@
 
     Data: [Kaggle - Climate Change: Earth Surface Temperature Data](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data)
            
-     Classify Developed/Developing Countries based on temperature data
-
       keyword: impute_data, date_converter, table_transform
 
 - **[05 - decision tree & random forest](https://nbviewer.jupyter.org/github/LennyFan/MachineLearningNoteBook/blob/master/examples/05-Decision-Tree-and-Random-Forest.ipynb)** < 01-26-18 update sklearn example
