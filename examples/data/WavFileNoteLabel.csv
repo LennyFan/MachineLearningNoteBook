@@ -1,0 +1,63 @@
+,File,Autocorrelation_Not
+0,(Scale1) Do.wav,A2
+1,(Scale2) Re.wav,B2
+2,(Scale3) Mi.wav,C3
+3,(Scale4) Fa.wav,D3
+4,(Scale5) So.wav,E3
+5,(Scale6) La.wav,F3
+6,(Scale7) Ti.wav,G3
+7,(Scale8) Do.wav,A3
+8,A0.wav,A2
+9,A1.wav,A#2/Bb2
+10,A2.wav,B2
+11,A3.wav,C3
+12,A4.wav,C#3/Db3
+13,A5.wav,D3
+14,A6.wav,D#3/Eb3
+15,A7.wav,E3
+16,A8.wav,F3
+17,B0.wav,B3
+18,B1.wav,C4
+19,B2.wav,E2
+20,B3.wav,G2
+21,B4.wav,D#4/Eb4
+22,B5.wav,A2
+23,B6.wav,F3
+24,B7.wav,F#3/Gb3
+25,B8.wav,G4
+26,D0.wav,D3
+27,D1.wav,D#3/Eb3
+28,D2.wav,E3
+29,D3.wav,F3
+30,D4.wav,F#3/Gb3
+31,D5.wav,G3
+32,D6.wav,G#3/Ab3
+33,D7.wav,A3
+34,D8.wav,A#3/Bb3
+35,Ehi0.wav,A2
+36,Ehi1.wav,F3
+37,Ehi2.wav,F#3/Gb3
+38,Ehi3.wav,G3
+39,Ehi4.wav,G#3/Ab3
+40,Ehi5.wav,A3
+41,Ehi6.wav,A#3/Bb3
+42,Ehi7.wav,B4
+43,Ehi8.wav,C4
+44,Elo0.wav,E2
+45,Elo1.wav,F2
+46,Elo2.wav,F#2/Gb2
+47,Elo3.wav,G2
+48,Elo4.wav,G#2/Ab2
+49,Elo5.wav,A2
+50,Elo6.wav,A#2/Bb2
+51,Elo7.wav,B2
+52,Elo8.wav,C3
+53,G0.wav,G3
+54,G1.wav,G#3/Ab3
+55,G2.wav,A3
+56,G3.wav,A#3/Bb3
+57,G4.wav,B3
+58,G5.wav,C4
+59,G6.wav,E2
+60,G7.wav,G2
+61,G8.wav,G#2/Ab2
