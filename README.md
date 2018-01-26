@@ -6,11 +6,11 @@
 
 - **[02 - logistic regression](https://nbviewer.jupyter.org/github/LennyFan/MachineLearningNoteBook/blob/master/examples/02-logistic-regression.ipynb)** < 01-25-18 update sklearn example
 
-> Data: [Kaggle - Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+        Data: [Kaggle - Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
 - **[03 - loglinear model](https://nbviewer.jupyter.org/github/LennyFan/MachineLearningNoteBook/blob/master/examples/03-loglinear.ipynb)** < 12-31-17 update algorithm and example
 
-> Data: Online context - if the article is English or Spanish
+        Data: Online context - if the article is English or Spanish
 
 - **[04 - KNN Classifiers](https://nbviewer.jupyter.org/github/LennyFan/MachineLearningNoteBook/blob/master/examples/04-K-Nearest-Neighbors.ipynb)** < 01-26-18 update sklearn example
 
