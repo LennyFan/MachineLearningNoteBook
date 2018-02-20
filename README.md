@@ -1,11 +1,16 @@
 
 
-#### Example: 
+## Example: 
 
 - **[01 - linear regression](http://nbviewer.jupyter.org/github/LennyFan/MachineLearningNoteBook/blob/master/examples/01-LinearRegression-Example.ipynb)** < 01-17-18 update sklearn example
+          
+       
+      LMS | SGD | sklearn | seaborn | Residual Analysis
 
 - **[02 - logistic regression](https://nbviewer.jupyter.org/github/LennyFan/MachineLearningNoteBook/blob/master/examples/02-logistic-regression.ipynb)** < 01-25-18 update sklearn example
-     
+
+      SGD | Regularization L1 & L2 | 
+      
      Data: [Kaggle - Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
 - **[03 - loglinear model](https://nbviewer.jupyter.org/github/LennyFan/MachineLearningNoteBook/blob/master/examples/03-loglinear.ipynb)** < 12-31-17 update algorithm and example
