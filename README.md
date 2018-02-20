@@ -3,9 +3,8 @@
 ## Example: 
 
 - **[01 - linear regression](http://nbviewer.jupyter.org/github/LennyFan/MachineLearningNoteBook/blob/master/examples/01-LinearRegression-Example.ipynb)** < 01-17-18 update sklearn example
-          
-       
-     `LMS | SGD | sklearn | seaborn | Residual Analysis`
+ 
+          `LMS | SGD | sklearn | seaborn | Residual Analysis`
 
 - **[02 - logistic regression](https://nbviewer.jupyter.org/github/LennyFan/MachineLearningNoteBook/blob/master/examples/02-logistic-regression.ipynb)** < 01-25-18 update sklearn example
 
