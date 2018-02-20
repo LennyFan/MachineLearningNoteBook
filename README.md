@@ -29,7 +29,8 @@
    *Data*: UCI DataSet - spam/ham message
    
    `NLP | Preprocess Language Content | Vectorization | TF-IDF | Feature Engineering | Pipeline | Naive-Bayes Classifiers | Pipeline`
-            
+         
+         
 **[06 - Decision Tree and Random Forest](https://nbviewer.jupyter.org/github/LennyFan/MachineLearningNoteBook/blob/master/examples/06-Decision-Tree-and-Random-Forest.ipynb)** < 01-26-18 update sklearn example
 
    *Data*: [Kaggle - What is a note?](https://www.kaggle.com/juliancienfuegos/what-is-a-note)
