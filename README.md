@@ -1,8 +1,8 @@
 ## Note:
 
-**[09 - PCA Analysis](http://nbviewer.jupyter.org/github/LennyFan/MachineLearningNoteBook/blob/master/Note/09-PCA-Analysis.ipynb)
+**[09 - PCA Analysis](http://nbviewer.jupyter.org/github/LennyFan/MachineLearningNoteBook/blob/master/Note/09-PCA-Analysis.ipynb)**
 
-**[10 - SVD Analysis](http://nbviewer.jupyter.org/github/LennyFan/MachineLearningNoteBook/blob/master/Note/10-SVD-Analysis.ipynb)
+**[10 - SVD Analysis](http://nbviewer.jupyter.org/github/LennyFan/MachineLearningNoteBook/blob/master/Note/10-SVD-Analysis.ipynb)**
 
 **[21 - RecommenderSystems(Memory Based Collaborative Filtering)](http://nbviewer.jupyter.org/github/LennyFan/MachineLearningNoteBook/blob/master/Note/21-Recommender-Systems-Memory-Based-Collaborative-Filtering.ipynb)** 
 
