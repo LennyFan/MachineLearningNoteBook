@@ -1,4 +1,6 @@
+## Note:
 
+**[21 - RecommenderSystems(Memory Based Collaborative Filtering)](http://nbviewer.jupyter.org/github/LennyFan/MachineLearningNoteBook/blob/master/Note/21-Recommender-Systems-Memory-Based-Collaborative-Filtering.ipynb)** < 01-17-18 update sklearn example
 
 ## Example: 
 
